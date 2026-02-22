@@ -1,0 +1,5 @@
+{
+  "name": "WebBattery: Offline Internet Cache",
+  "description": "Charge your 'internet battery' while online by caching web content and search results to access them later when you're offline.",
+  "requestFramePermissions": []
+}
